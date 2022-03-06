@@ -9,3 +9,7 @@ pure pursuit法を用いた移動ロボットにおける滑らかな障害物�
 
 
 http://proceedings.mlr.press/v139/yonetani21a/yonetani21a.pdf
+
+未知の障害物を考慮した移動ロボットの動作計画
+
+https://www.jstage.jst.go.jp/article/pscjspe/2011A/0/2011A_0_970/_pdf
