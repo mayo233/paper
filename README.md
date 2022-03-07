@@ -18,3 +18,6 @@ https://www.jstage.jst.go.jp/article/pscjspe/2011A/0/2011A_0_970/_pdf
 
 http://k-nagatani.org/pdf/2009-RSJ-VON-online.pdf
 
+人間の障害物回避軌道の調査に基づいたファジィ推論による移動ロボットの障害物回避
+
+https://www.jstage.jst.go.jp/article/jsmermd/2016/0/2016_2A1-07a7/_pdf/-char/ja
