@@ -25,3 +25,7 @@ https://www.jstage.jst.go.jp/article/jsmermd/2016/0/2016_2A1-07a7/_pdf/-char/ja
 スプライン曲線による車輪型移動ロボットの軌道制御
 
 https://www.jstage.jst.go.jp/article/jrsj1983/8/2/8_2_133/_pdf/-char/ja
+
+Bスプラインによる移動ロボットの動的障害物回避軌道の設計
+
+https://www.topic.ad.jp/sice/htdocs/papers/179/179-5.pdf
