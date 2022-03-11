@@ -1,5 +1,5 @@
 # paper
-ここにはネットにアップされている論文を載せる
+ここにはネットでアップされている論文を載せる
 
 https://www.jstage.jst.go.jp/article/jacc/64/0/64_746/_pdf
 
@@ -21,3 +21,7 @@ http://k-nagatani.org/pdf/2009-RSJ-VON-online.pdf
 人間の障害物回避軌道の調査に基づいたファジィ推論による移動ロボットの障害物回避
 
 https://www.jstage.jst.go.jp/article/jsmermd/2016/0/2016_2A1-07a7/_pdf/-char/ja
+
+スプライン曲線による車輪型移動ロボットの軌道制御
+
+https://www.jstage.jst.go.jp/article/jrsj1983/8/2/8_2_133/_pdf/-char/ja
