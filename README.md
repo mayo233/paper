@@ -29,3 +29,7 @@ https://www.jstage.jst.go.jp/article/jrsj1983/8/2/8_2_133/_pdf/-char/ja
 Bスプラインによる移動ロボットの動的障害物回避軌道の設計
 
 https://www.topic.ad.jp/sice/htdocs/papers/179/179-5.pdf
+
+準静的環境下での複数ロボットによる地図更新
+
+https://www.jstage.jst.go.jp/article/sicejl/59/10/59_764/_article/-char/ja/
