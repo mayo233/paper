@@ -33,3 +33,7 @@ https://www.topic.ad.jp/sice/htdocs/papers/179/179-5.pdf
 準静的環境下での複数ロボットによる地図更新
 
 https://www.jstage.jst.go.jp/article/sicejl/59/10/59_764/_article/-char/ja/
+
+
+クラウド制御型自律移動ロボットプラットフォーム
+https://www.researchgate.net/profile/Norbert-Reider/publication/359414438_Cloud-Controlled_Autonomous_Mobile_Robot_Platform/links/623ad0b65d09d76bfd085732/Cloud-Controlled-Autonomous-Mobile-Robot-Platform.pdf
